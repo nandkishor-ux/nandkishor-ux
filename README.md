@@ -1,24 +1,78 @@
-# 💫 About Me:
-🔭I'm currently working on<br>ML projects — student performance prediction & heart disease risk classification<br><br>I'm looking to collaborate on<br>AI/ML applications, data science projects, and full-stack builds with Python or Java<br>🤝<br>I'm looking for help with<br>Advanced deep learning architectures and deploying ML models to production<br>🌱<br>I'm currently learning<br>Neural networks, NLP, and modern AI — B.Tech CSE @ IILM University (2023–2027)<br>💬<br>Ask me about<br>Python, Machine Learning, Random Forest models, data analysis, or chatbot development<br>⚡<br>Fun fact<br>I built a full-stack image recognition chatbot in under 36 hours and won a Bronze Medal at the IIC Startup Contest!
+<h1 align="center">Hi 👋, I'm Nand Kishor Kumar</h1>
+<h3 align="center">B.Tech CSE Student | Machine Learning & Python Developer | Greater Noida, India</h3>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shuvam.27) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nandkishor0720@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=nandkishor-ux&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=nandkishor-ux&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=nandkishor-ux&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nandkishor-ux&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nandkishor-ux&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://www.linkedin.com/in/nandkishor-ux" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="mailto:nandkishor0720@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=nandkishor-ux&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🧠 About Me
+
+- 🎓 B.Tech in Computer Science @ **IILM University** (2023–2027)
+- 🤖 Specializing in **Machine Learning**, predictive modeling & end-to-end AI apps
+- 🔬 Experience with **Random Forest**, **GridSearchCV**, **Flask**, **NLP**, and **Neural Networks**
+- 🏆 Bronze Medalist – IIC Startup Contest 2023
+- 📜 Certified in **Tata GenAI Simulation** (Forage, 2025) | Python, Java, C with OOP
+- 🌱 Currently exploring **Deep Learning** and **LLM-based applications**
+- 📫 Reach me at: **nandkishor0720@gmail.com**
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech | Highlights |
+|---|---|---|---|
+| [🎓 Student Performance Prediction](https://github.com/nandkishor-ux/Student_perfomance_prediction) | ML model predicting student math scores | Python, Scikit-learn, Pandas | R² = 0.85, MAE = 4.70 |
+| [🫀 Heart Disease Risk Predictor](https://github.com/nandkishor-ux/Heart_disease_risk_prediction) | End-to-end web app for heart disease risk | Python, Flask, Random Forest | 85%+ Accuracy, AUC = 0.8674 |
+| [💬 Conversational Image Chatbot](https://github.com/nandkishor-ux/conversational_image_chatbot) | Multimodal AI chatbot for image Q&A | HTML, CSS, JS, AI API | <3s response, 50+ COCO images tested |
+| [🏠 House Price Prediction](https://github.com/nandkishor-ux/house-price-prediciton) | Regression model for property price estimation | Python, Scikit-learn, Jupyter | End-to-end ML pipeline |
+| [📚 Library Management System](https://github.com/nandkishor-ux/library-management-system) | Full-featured LMS with OOP principles | Java | OOP, DSA concepts applied |
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+
+**ML & Data**
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nandkishor-ux&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandkishor-ux&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+### 🏅 Achievements
+
+- 🥉 **Bronze Medal** – IIC Startup Contest (2023)
+- 📋 **Tata GenAI Simulation Certificate** – Forage Platform (2025)
+- 🎖️ Certified in **C, Python, and Java** with OOP principles
+- 🎪 Core Member, **Innovation & Incubation Council (IIC)** – organized Ignite & Mosaic fests
+
+---
+
+<p align="center">⭐ If you find my projects useful, consider starring them! ⭐</p>
