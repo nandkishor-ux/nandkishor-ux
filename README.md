@@ -14,7 +14,6 @@
 ---
 
 ### 🧠 About Me
-
 - 🎓 B.Tech in Computer Science @ **IILM University** (2023–2027)
 - 🤖 Specializing in **Machine Learning**, predictive modeling & end-to-end AI apps
 - 🔬 Experience with **Random Forest**, **GridSearchCV**, **Flask**, **NLP**, and **Neural Networks**
@@ -26,12 +25,11 @@
 ---
 
 ### 🚀 Featured Projects
-
 | Project | Description | Tech | Highlights |
 |---|---|---|---|
 | [🎓 Student Performance Prediction](https://github.com/nandkishor-ux/Student_perfomance_prediction) | ML model predicting student math scores | Python, Scikit-learn, Pandas | R² = 0.85, MAE = 4.70 |
 | [🫀 Heart Disease Risk Predictor](https://github.com/nandkishor-ux/Heart_disease_risk_prediction) | End-to-end web app for heart disease risk | Python, Flask, Random Forest | 85%+ Accuracy, AUC = 0.8674 |
-| [💬 Conversational Image Chatbot](https://github.com/nandkishor-ux/conversational_image_chatbot) | Multimodal AI chatbot for image Q&A | HTML, CSS, JS, AI API | <3s response, 50+ COCO images tested |
+| [📧 Smart Email Reply Generator](https://github.com/nandkishor-ux/smart-email-reply) | NLP pipeline that classifies email intent & generates context-aware replies | Python, HuggingFace Transformers, DistilBERT, BERT, Streamlit | 7-intent classification, DistilBERT sentiment analysis, Enron dataset |
 | [🏠 House Price Prediction](https://github.com/nandkishor-ux/house-price-prediciton) | Regression model for property price estimation | Python, Scikit-learn, Jupyter | End-to-end ML pipeline |
 | [📚 Library Management System](https://github.com/nandkishor-ux/library-management-system) | Full-featured LMS with OOP principles | Java | OOP, DSA concepts applied |
 
@@ -53,12 +51,13 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nandkishor-ux&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandkishor-ux&layout=compact&theme=tokyonight" height="160"/>
@@ -67,7 +66,6 @@
 ---
 
 ### 🏅 Achievements
-
 - 🥉 **Bronze Medal** – IIC Startup Contest (2023)
 - 📋 **Tata GenAI Simulation Certificate** – Forage Platform (2025)
 - 🎖️ Certified in **C, Python, and Java** with OOP principles
