@@ -17,7 +17,7 @@
 - 🎓 B.Tech in Computer Science @ **IILM University** (2023–2027)
 - 🤖 Specializing in **Machine Learning**, predictive modeling & end-to-end AI apps
 - 🔬 Experience with **Random Forest**, **GridSearchCV**, **Flask**, **NLP**, and **Neural Networks**
-- 🏆 Bronze Medalist – IIC Startup Contest 2023
+- 🏆 Bronze Medalist – IIC Startup Contest 2023.
 - 📜 Certified in **Tata GenAI Simulation** (Forage, 2025) | Python, Java, C with OOP
 - 🌱 Currently exploring **Deep Learning** and **LLM-based applications**
 - 📫 Reach me at: **nandkishor0720@gmail.com**
